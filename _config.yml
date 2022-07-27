@@ -1,6 +1,6 @@
 title: "Naqvi Industrial"
 author: "Sameer Abbas"
-description: "Powered by Naqvi Industrial ©                                                                                       "Innovation In Your Hands" "
+description: "Powered by Naqvi Industrial"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -15,12 +15,12 @@ show_sidebar: false       # show a sidebar instead of the usual header
 
 # Menu
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
+navigation:                
   - {file: "index.html", title: "Our CEO", file: "ourceo.md"}
-  - {file: "README.md", title: "Services", icon, briefcase}
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "s.abbas5@hotmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:s.abbas13@share.epsb.ca"}
   - {title: Github, icon: github, url: "https://github.com/sabbas55"}
 
 comments:
