@@ -1,8 +1,8 @@
 - [x] Nationality: Canadian
 - [x] Ethnicity: Pakistani
 - [x] Full Name (written in English and in other language)
-- [ ] Flag
+- [x] Flag
 - [x] Languages spoken
-- [ ] Cultural food - pic of biryani
-- [ ] Hobbies - Add picture of oculus
-- [ ] Sports - Add pictures of balls/rackets
+- [x] Cultural food - pic of biryani
+- [x] Hobbies - Add picture of oculus
+- [x] Sports - Add pictures of balls/rackets
