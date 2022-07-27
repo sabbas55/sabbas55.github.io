@@ -8,4 +8,4 @@ Sameer Abbas. CEO, founder, and president of Naqvi Industrial. A young Pakistani
 src="download.png">
 
 <input type = "image"
-src="pngwing.com.png"
+src="pngwing.com.png">
