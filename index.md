@@ -12,3 +12,6 @@ src="pngwing.com.png">
 
 <input type = "image"
 src="pngegg.png">
+
+<input type = "image"
+src="pngwing.com (1).png">
